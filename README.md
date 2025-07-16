@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/Sonu1511-sss/Sonu1511-sss/blob/main/%F0%9F%9A%80%20MERN%20Stack%20Developer%20(1).png" alt="Custom Banner with Text" width="100%" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Shubham Uprade</h1>
 <h3 align="center">MERN Stack Developer | DSA in JavaScript | B.Tech Pursuing | Diploma in Computer Science Completed</h3>
 <div align="center">
