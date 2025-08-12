@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/Sonu1511-sss/Sonu1511-sss/blob/main/%F0%9F%9A%80%20MERN%20Stack%20Developer%20(1).png" alt="Custom Banner with Text" width="100%" />
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Shubham Uprade</h1>
 <h3 align="center">MERN Stack Developer | DSA in JavaScript | B.Tech Pursuing | Diploma in Computer Science Completed</h3>
@@ -40,3 +38,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu1511-sss&show_icons=true&locale=en" alt="sonu1511-sss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu1511-sss&" alt="sonu1511-sss" /></p>
+
