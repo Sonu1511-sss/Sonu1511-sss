@@ -1,7 +1,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Shubham Uprade</h1>
-<h3 align="center">MERN Stack Developer | DSA in JavaScript | B.Tech Pursuing | Diploma in Computer Science Completed</h3>
+<h3 align="center">Hi, I’m Shubham Uprade, a MERN Stack Developer and B.Tech CSE student at SIRT Bhopal, with a completed Diploma in Computer Science Engineering.
+Passionate about full-stack web development, AI integration, and problem-solving with Java and DSA.
+Participant in ECJathon, and always exploring innovative ways to build scalable, efficient applications.</h3>
+<p align="center">
+  ⚡ <strong>Passionate about creating, building, and turning ideas into reality!</strong> ⚡
+</p>
+
 <div align="center">
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZidHI5emtlMTZkOG53NGt6NXJrcnBsdDBscHV2bXFoMHBuMjg2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" width="400" />
 </div>
@@ -28,12 +34,57 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+# 🚀 MERN Stack Developer
+
+## **1. MERN Stack Skills**
+- **Frontend:** HTML, CSS, JavaScript, React.js, Tailwind, Bootstrap  
+- **Backend:** Node.js, Express.js, REST API, JWT, MongoDB  
+- **State Management:** Redux, Context API  
+- **UI/UX:** Responsive Design, Flexbox, Animations  
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40"/>
+</p>
+
+---
+
+## **2. Programming & DSA**
+- **Languages:** Java (Core + Advanced)  
+- **DSA:** Arrays, Strings, Trees, Graphs, Recursion  
+- **Practice:** LeetCode, HackerRank, CodeStudio  
+
+---
+
+## **3. AI / ML Basics**
+- **Python:** NumPy, Pandas, Matplotlib, Scikit-learn  
+- **Concepts:** Data Preprocessing, Regression, Classification  
+- **Integration:** AI APIs, Prompt Engineering  
+
+---
+
+## **4. Tools & Platforms**
+- **Version Control:** Git, GitHub  
+- **Deployment:** Netlify, Vercel, Render  
+- **Others:** VS Code, Postman, Figma, ImageKit  
+
+---
+
+## **5. Soft Skills**
+- Problem Solving • Debugging • Creative Design  
+- Team Collaboration • Time Management
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonu1511-sss&show_icons=true&locale=en&layout=compact" alt="sonu1511-sss" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu1511-sss&show_icons=true&locale=en" alt="sonu1511-sss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu1511-sss&" alt="sonu1511-sss" /></p>
+
 
 
