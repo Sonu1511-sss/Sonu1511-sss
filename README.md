@@ -6,9 +6,6 @@
   <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXZidHI5emtlMTZkOG53NGt6NXJrcnBsdDBscHV2bXFoMHBuMjg2dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" alt="coding gif" width="400" />
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sonu1511-sss&label=Profile%20views&color=0e75b6&style=flat" alt="sonu1511-sss" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sonu1511-sss" alt="sonu1511-sss" /></a> </p>
 
 - 🔭 I’m currently working on [connect-shiksha](connect-shiksha)
 
@@ -38,4 +35,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu1511-sss&show_icons=true&locale=en" alt="sonu1511-sss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu1511-sss&" alt="sonu1511-sss" /></p>
+
 
