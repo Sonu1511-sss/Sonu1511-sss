@@ -23,7 +23,7 @@ Participant in Hackathon, and always exploring innovative ways to build scalable
 
 - 📫 How to reach me **shubhamuprade@gmail.com**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1Wdu5k5jMtcd0e8V552-p1tG4lkYOLBIH/view?usp=drivesdk](https://drive.google.com/file/d/1Wdu5k5jMtcd0e8V552-p1tG4lkYOLBIH/view?usp=drivesdk](https://drive.google.com/file/d/14uMtLwHjRfjgOnAfdtFpuu_37yBJvvZh/view?usp=drivesdk))
+- 📄 Know about my experiences ((https://drive.google.com/file/d/14uMtLwHjRfjgOnAfdtFpuu_37yBJvvZh/view?usp=drivesdk)))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
