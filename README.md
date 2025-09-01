@@ -23,7 +23,7 @@ Participant in Hackathon, and always exploring innovative ways to build scalable
 
 - 📫 How to reach me **shubhamuprade@gmail.com**
 
-- 📄 Know about my experiences ((https://drive.google.com/file/d/14uMtLwHjRfjgOnAfdtFpuu_37yBJvvZh/view?usp=drivesdk)))
+- 📄 Know about my experiences https://drive.google.com/file/d/14uMtLwHjRfjgOnAfdtFpuu_37yBJvvZh/view?usp=drivesdk
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -85,6 +85,7 @@ Participant in Hackathon, and always exploring innovative ways to build scalable
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu1511-sss&show_icons=true&locale=en" alt="sonu1511-sss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu1511-sss&" alt="sonu1511-sss" /></p>
+
 
 
 
