@@ -15,7 +15,7 @@ Participant in Hackathon, and always exploring innovative ways to build scalable
 
 - 🔭 I’m currently working on [connect-shiksha](connect-shiksha)
 
-- 🌱 I’m currently learning **JavaScript DSA, Machine Learning, and React Native**
+- 🌱 I’m currently learning **Java DSA, Machine Learning, and React Native**
 
 - 👯 I’m looking to collaborate on [ConnectShikha – An Educational Networking Platform](https://connect-shiksha-front-sonu1511-sss-projects.vercel.app/)
 
@@ -85,6 +85,7 @@ Participant in Hackathon, and always exploring innovative ways to build scalable
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu1511-sss&show_icons=true&locale=en" alt="sonu1511-sss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu1511-sss&" alt="sonu1511-sss" /></p>
+
 
 
 
