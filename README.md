@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Shubham Uprade</h1>
 <h3 align="center">Hi, I’m Shubham Uprade, a MERN Stack Developer and B.Tech CSE student at SIRT Bhopal, with a completed Diploma in Computer Science Engineering.
 Passionate about full-stack web development, AI integration, and problem-solving with Java and DSA.
-Participant in ECJathon, and always exploring innovative ways to build scalable, efficient applications.</h3>
+Participant in Hackathon, and always exploring innovative ways to build scalable, efficient applications.</h3>
 <p align="center">
   ⚡ <strong>Passionate about creating, building, and turning ideas into reality!</strong> ⚡
 </p>
@@ -85,6 +85,7 @@ Participant in ECJathon, and always exploring innovative ways to build scalable,
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu1511-sss&show_icons=true&locale=en" alt="sonu1511-sss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu1511-sss&" alt="sonu1511-sss" /></p>
+
 
 
 
