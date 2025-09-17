@@ -60,13 +60,6 @@ Participant in Hackathon, and always exploring innovative ways to build scalable
 
 ---
 
-## **3. AI / ML Basics**
-- **Python:** NumPy, Pandas, Matplotlib, Scikit-learn  
-- **Concepts:** Data Preprocessing, Regression, Classification  
-- **Integration:** AI APIs, Prompt Engineering  
-
----
-
 ## **4. Tools & Platforms**
 - **Version Control:** Git, GitHub  
 - **Deployment:** Netlify, Vercel, Render  
@@ -85,6 +78,7 @@ Participant in Hackathon, and always exploring innovative ways to build scalable
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonu1511-sss&show_icons=true&locale=en" alt="sonu1511-sss" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sonu1511-sss&" alt="sonu1511-sss" /></p>
+
 
 
 
